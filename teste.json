@@ -1,0 +1,44 @@
+[
+  {
+    "amount": 1800,
+    "description": "200g de carne, mussarela, alface, tomate, picles, cebola roxa e maionese caseira",
+    "product_id": 1,
+    "product_name": "X Salada",
+    "thumb_url": "https://www.seekpng.com/png/detail/408-4083760_png-hamburguer-po-de-hamburguer-congelado.png"
+  },
+  {
+    "amount": 2200,
+    "description": "300g de carne, bacon, cheddar, alface, tomate, cebola roxa e maionese caseira",
+    "product_id": 2,
+    "product_name": "X Bacon",
+    "thumb_url": "https://www.kindpng.com/picc/m/427-4271828_transparent-hamburguer-png-hamburger-png-png-download.png"
+  },
+  {
+    "amount": 900,
+    "description": "500g de batata.",
+    "product_id": 3,
+    "product_name": "Batata frita",
+    "thumb_url": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2019/02/batata-frita-sequinha-crocante.jpeg"
+  },
+  {
+    "amount": 3000,
+    "description": "X salada + 250g de Batata + Refri",
+    "product_id": 4,
+    "product_name": "Combinado",
+    "thumb_url": "https://www.imagensempng.com.br/wp-content/uploads/2021/02/Hamburguer-Coca-Cola-Batata-Frita-Png.png"
+  },
+  {
+    "amount": 600,
+    "description": "Mousse de chocolate",
+    "product_id": 5,
+    "product_name": "Mousse",
+    "thumb_url": "https://mrbey.com.br/wp-content/uploads/2021/02/Mousse-Lacta-Blue-500x338-01.jpg"
+  },
+  {
+    "amount": 350,
+    "description": "300ml",
+    "product_id": 6,
+    "product_name": "Coca Cola (lata)",
+    "thumb_url": "https://www.imigrantesbebidas.com.br/bebida/images/products/full/1984-refrigerante-coca-cola-lata-350ml.jpg"
+  }
+]
